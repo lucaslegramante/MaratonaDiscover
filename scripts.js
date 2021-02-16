@@ -224,6 +224,3 @@ const App = {
 }
 
 App.init()
-
-
-
